@@ -1,0 +1,3 @@
+C:/Users/estadm/OneDrive - Estudiantes ITCR/TEC - Software Engineering/2021 - II Semestre/ED/Proyecto1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/estadm/OneDrive - Estudiantes ITCR/TEC - Software Engineering/2021 - II Semestre/ED/Proyecto1/cmake-build-debug/CMakeFiles/Proyecto1.dir
+C:/Users/estadm/OneDrive - Estudiantes ITCR/TEC - Software Engineering/2021 - II Semestre/ED/Proyecto1/cmake-build-debug/CMakeFiles/edit_cache.dir
